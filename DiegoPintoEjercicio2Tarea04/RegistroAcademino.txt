@@ -1,0 +1,3 @@
+1105642332;Diego;diepinto30@gmail.com;0001;
+1102345678;Camila;camiutpl@gmail.com;0002;lunes;
+1105642332;Cecilia;cecip@hotmail.com;0002;
